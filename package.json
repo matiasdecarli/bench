@@ -1,0 +1,17 @@
+{
+  "name": "bench",
+  "description": "a simple script to test responses",
+  "author": {
+    "name": "Matias De Carli",
+    "email": "matiasdecarli@gmail.com",
+    "url": "http://matiasdecarli.com"
+  },
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-curl": "^0.3.3"
+  },
+  "scripts": {
+    "start": "node script.js"
+  }
+}
